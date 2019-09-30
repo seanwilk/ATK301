@@ -1,0 +1,49 @@
+h2 {
+  color: white;
+}
+
+h1 {
+  color: white
+}
+
+ul {
+  color: white;
+}
+
+u {
+  color: white
+}
+
+a:link {
+   color: red;
+}
+
+a:visited {
+   color: green;
+}
+
+.ask {
+  color: red;
+  background-color: blue;
+}
+
+#bugs {
+  color: orange;
+  background-color: purple;
+}
+
+a:active {
+   color: yellow;
+}
+
+a:hover {
+   color: orange;
+}
+
+body {
+  background-color: #7A8EA0;
+}
+
+p {
+  color: white
+}
