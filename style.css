@@ -1,0 +1,48 @@
+body {
+  background-image: url(paper.png);
+}
+
+
+.llewyn {
+  color: #819596;
+  font-style: Arial;
+  font-family: Arial;
+  font-size: 30px;
+  line-height: 10px;
+}
+
+#cast {
+  font-size: 20px;
+  font-family: Arial;
+  font-style: Arial;
+  color: #819596;
+  line-height: 30px;
+}
+
+.joel {
+  font-family: Arial;
+  font-style: arial;
+  line-height: 2px;
+}
+
+.inside {
+  border-top: 0px;
+  font-family: Arial,sans-serif;
+  font-style: Arial;
+  font-size: 30px;
+  line-height: 55px;
+}
+
+u {
+  font-size:18px;
+  font-family: Arial;
+  font-style: Arial;
+  line-height: 1px;
+}
+
+.coming {
+  font-size: 30px;
+  font-family: Arial;
+  font-style: Arial;
+  line-height: 10px;
+}
