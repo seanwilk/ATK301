@@ -1,0 +1,125 @@
+body {
+  background-color: #DCD0C0;
+  font-family: didot;
+  font: didot;
+}
+
+img {
+  width: 450px;
+  padding:20px;
+}
+
+h1 {
+  color: #0E0B16;
+  text-decoration: underline;
+  font-family: copperplate;
+}
+
+h6 {
+  color: #0E0B16;
+}
+
+header {
+  background-color: #C0B283;
+  font-family: copperplate;
+  text-align: center;
+}
+
+.musicpage {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+
+audio {
+  padding: 30px;
+}
+
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
+.pics {
+    display: inline-block;
+  }
+
+
+h2 {
+  color: #373737;
+  text-decoration: underline;
+}
+
+.content {
+float: left;
+width: 50%;
+margin: 20px;
+text-align: center;
+}
+
+
+
+ul {
+  list-style: none;
+  margin-top:0px;
+  display: inline;
+
+}
+
+li {
+  display: inline;
+  height: inherit;
+  padding: 10px;
+  text-align: left;
+}
+
+
+a {
+   color: #0E0B16;
+   text-decoration: none;
+
+}
+
+a:link {
+   color: #0E0B16;
+}
+
+a:visited {
+   color: #0E0B16;
+}
+
+a:active {
+   color: #0E0B16;
+}
+
+a:hover {
+   color: #F4F4F4;
+}
+
+footer {
+
+  grid-column: span 4;
+  margin: none;
+  text-align: center;
+  font-family: copperplate;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+
+.column {
+  flex: 25%;
+  max-width: 20%;
+  padding: 0 2px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
